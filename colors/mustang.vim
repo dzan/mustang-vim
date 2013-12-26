@@ -63,3 +63,7 @@ hi def link NERDTreeOpenable String
 hi def link NERDTreeCloseable NERDTreeOpenable
 hi def link NERDTreeCWD String
 hi def link NERDTreePart String
+
+" Invisible character colors
+hi NonText guifg=#808080 gui=italic ctermfg=240 ctermbg=234
+hi SpecialKey guifg=#808080 gui=italic ctermfg=240 ctermbg=234
